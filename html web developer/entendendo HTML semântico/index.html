@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semântica HTML5</title>
+    <style>
+        html {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+        }
+
+        nav ul li a {
+            padding: 10px 15px;
+            color: lightsalmon;
+            text-decoration: none;
+            border-radius: 15px 15px 0 0;
+        }
+
+        nav ul li a:hover {
+            color: whitesmoke;
+            background: lightcoral;
+        }
+
+        blockquote {
+            background: lightpink;
+            padding: 15px;
+            margin-left: 0;
+            border-left: lightcoral solid 5px;
+        }
+
+        article time {
+            font-style: italic;
+        }
+
+        article q {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Item 1</a></li>
+                <li><a href="#">Item 2</a></li>
+                <li><a href="#">Item 3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section></section>
+        <section></section>
+        <article>
+            <h1>Lorem, ipsum dolor</h1>
+            <p>Lorem, ipsum dolor sit <time pubdate>14/11/2023 18:02</time> amet consectetur adipisicing elit. Iste voluptatum repellendus reiciendis aliquid nisi? Exercitationem, ipsum quae quidem, nostrum officia nemo labore explicabo sunt ducimus doloremque repellendus veniam iure quibusdam.</p>
+            <article>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam placeat adipisci odio velit quisquam aliquid natus, dolore illum corporis, ad culpa, quae facere quam ab tenetur vel quos temporibus. Deserunt?</p>
+            </article>
+            <p>Lorem ipsum dolor <q cite="#">sit amet consectetur adipisicing</q> elit. Cum obcaecati ex incidunt cumque saepe illo, corporis neque, porro quod voluptate minus illum esse doloremque commodi vitae dolor, asperiores non optio.</p>
+            <blockquote cite="#">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis fugiat nam ad quod doloribus voluptatum, itaque, perferendis amet illo, quo dignissimos! Quis iste maiores odio quo exercitationem asperiores excepturi et.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam facere corporis similique fuga harum repellendus libero maiores consectetur repellat excepturi omnis, nulla architecto dolor deleniti velit modi ut blanditiis labore.</p>
+            </blockquote>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta molestiae architecto nemo quia culpa earum magnam ipsam, aliquam perferendis minus, esse nisi, facere autem ducimus totam aspernatur suscipit. Laboriosam, minus?</p>
+            <figure>
+                <img src="https://media.giphy.com/media/H9sMSBF2CaNI4/giphy.gif" alt="">
+                <figcaption>Pandinha virando cambalhota</figcaption>
+            </figure>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis vitae neque accusantium officia labore! Eos cum labore eius tempore repellat, a quas numquam. Accusantium reiciendis repellendus suscipit nihil ea minus.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime placeat qui voluptate modi expedita unde officia harum debitis totam illo assumenda sequi quisquam deleniti laboriosam voluptas, recusandae itaque consequatur esse.</p>
+            <picture>
+                <source srcset="https://media.giphy.com/media/caOxSO9wORTPi/giphy.gif" media="(min-width: 600px)">
+                <img src="https://media.giphy.com/media/8qGniJo0UW2s/giphy.gif" alt="">
+            </picture>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis deleniti rem sunt ex autem, iste reprehenderit aliquid ratione maiores cum minima, quisquam sit aut amet exercitationem consequatur ut facere non.</p>
+            <blockquote>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias distinctio soluta ullam excepturi illo aliquam, explicabo eius aliquid voluptas, molestiae possimus alias nihil, mollitia sunt corrupti magnam nobis optio nam?</p>
+            </blockquote>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, modi blanditiis quae explicabo, accusantium cum quo libero non aperiam a commodi quasi vel perferendis magnam provident, iste ratione cupiditate consequatur?</p>
+        </article>
+        <aside></aside>
+    </main>
+    <footer></footer>
+</body>
+</html>

@@ -13,10 +13,10 @@ repositório para acompanhar meus estudos e compartilhar meus projetos referente
 - [x] <a href="https://hermes.digitalinnovation.one/certificates/1F72C60C.pdf?_gl=1*1d18iiy*_ga*MTcyNTAxNjE5NC4xNjg3MzU3ODMw*_ga_7GXMH3CQ72*MTY5OTY0MTY1OS40Ni4xLjE2OTk2NDM1NDMuNTkuMC4w"> estruturando seu HTML + formatações </a>
 - [x] <a href="https://hermes.digitalinnovation.one/certificates/F00B5221.pdf?_gl=1*1g3vi2l*_ga*MTcyNTAxNjE5NC4xNjg3MzU3ODMw*_ga_7GXMH3CQ72*MTY5OTY0MTY1OS40Ni4xLjE2OTk2NDM2OTMuNTkuMC4w"> trabalhando com mídias utilizando HTML</a>
 - [x] <a href="https://hermes.digitalinnovation.one/certificates/9EDA4BAA.pdf?_gl=1*awuij1*_ga*MTcyNTAxNjE5NC4xNjg3MzU3ODMw*_ga_7GXMH3CQ72*MTY5OTY0MTY1OS40Ni4xLjE2OTk2NDM4MjguNjAuMC4w"> criando tabelas com HTML </a>
-- [ ] <a href=""> desafio de projeto: criando seu primeiro site completo com HTML </a> 
+- [x] <a href=""> desafio de projeto: criando seu primeiro site completo com HTML </a> 
 
 #### <ins> *HTML II: ampliando o conhecimento*
-- [ ] <a href=""> entendendo HTML semântico </a>
+- [x] <a href="https://hermes.digitalinnovation.one/certificates/CAC74593.pdf?_gl=1*9q42nb*_ga*MTcyNTAxNjE5NC4xNjg3MzU3ODMw*_ga_7GXMH3CQ72*MTY5OTk5MzMwNS41MC4xLjE2OTk5OTg2NDkuNDQuMC4w"> entendendo HTML semântico </a>
 - [ ] <a href=""> HTML: recursos especiais </a>
 - [ ] <a href=""> desafio de projeto: recriando o wikipedia com layout moderno </a>
 
