@@ -1,0 +1,27 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+[title = "Netflix"] {
+    color: lightcoral;
+}
+
+[href *= "netflix"] {
+    background: darkred;
+}
+
+[title ~= "Streaming"] {
+    color: lightgreen;
+}
+
+[href ^= "https://"] {
+    background: darkgreen;
+}
+
+[title |= "Video"] {
+    color: lightblue;
+}
+
+[href $= "login"] {
+    background: darkcyan;
+}

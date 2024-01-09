@@ -1,0 +1,31 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background: darkcyan;
+    color: lightgreen;
+}
+
+div {
+    background: lightblue;
+    color: darkcyan;
+}
+
+.seletores-mais-comuns {
+    background: lightgreen;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase;
+}
+
+#texto-boas-vindas {
+    background: darkcyan;
+    color: lightblue;
+}
+
+#explicacao-seletores {
+    background: darkgreen;
+    color: lightgreen;
+}
