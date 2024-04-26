@@ -1,0 +1,11 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div p {
+    background: lightgreen;
+}
+
+div > p {
+    color: darkolivegreen;
+}

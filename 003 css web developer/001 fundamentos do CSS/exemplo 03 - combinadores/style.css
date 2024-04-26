@@ -1,0 +1,17 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, div {
+    color: darkred;
+    background: lightcoral;
+}
+
+#botao-voltar, #botao-fechar {
+    color: lightcoral;
+    background: darkred;
+}
+
+p.texto {
+    font-style: italic;
+}

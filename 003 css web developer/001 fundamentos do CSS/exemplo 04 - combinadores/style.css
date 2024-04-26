@@ -1,0 +1,23 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    color: lightseagreen;
+}
+
+li li {
+    color: lightskyblue;
+}
+
+#lista-01 li {
+    background: darkcyan;
+}
+
+.fundo-azul li {
+    background: darkgreen;
+}
+
+.fundo-verde #sublista-01 li {
+    color: white;
+}
